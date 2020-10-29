@@ -1,4 +1,4 @@
-# Second exercise for Software Testing module
+# Dynamic tic-tac-toe app ( 3x3 / 4x4 / 5x5 )
 
 &nbsp;
 
